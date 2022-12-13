@@ -1,0 +1,1 @@
+C- functions neste loops
